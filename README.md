@@ -8,4 +8,4 @@
 
 <br>
 <br>
-<h2 align='center'>Terima Kasih:Fadillah Adityan</h2>
+<h2 align='center'>Fadil Yang copy repo ini nak</h2>
